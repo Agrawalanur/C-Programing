@@ -6,7 +6,7 @@ void main()
 	clrscr();
 	for(i=1;i<=5;i++)
 	{
-		printf("% -5.* & \n",i,"*****");
+		printf("% -5.*s\n",i,"*****");
 
 	}
 	getch();
